@@ -39,7 +39,7 @@ I used **Power Query** to architect a robust data foundation, extracting raw inf
 * **🔄 Transform:** I cleaned the text to eliminate noise, removed unnecessary columns, and trimmed whitespace to ensure the Join keys were perfect.
 * **🔗 Load:** Both queries were loaded into the **Power Pivot Data Model**.
 
-![Loading both queries into power pivot data model](assets/power-pivot-data-model)
+![Loading both queries into power pivot data model](assets/power-pivot-data-model.png)
 
 
 ---
@@ -49,7 +49,7 @@ I focused on **Median Salary** rather than averages to provide a realistic bench
 
 **The Insight:** A strong positive correlation exists between the number of skills requested and the median salary, particularly for **Senior Data Engineers** and **Data Scientists**. Roles like **Business Analysts** often require fewer skills but command a lower market value.
 
-![Skills vs Pay Correlation](assets/skills-per-job)
+![Skills vs Pay Correlation](assets/skills-per-job.png)
 
 > **"So What?"** This trend emphasizes the high market value of specialization. Acquiring a dense, relevant skillset is the most direct path to higher-paying roles.
 
@@ -71,7 +71,7 @@ High-tech roles show a significant pay disparity between the US and the rest of 
 
 | **UK vs. US Benchmark** | **Global Comparison (Australia/US/Non-US)** |
 | :---: | :---: |
-| ![Median Salary Comparison between US and UK](assets/US-vs-UK-Median-Salary) | ![Global Comparison](assets/Australia-US-Non-US) |
+| ![Median Salary Comparison between US and UK](assets/US-vs-UK-Median-Salary.png) | ![Global Comparison](assets/Australia-US-Non-US.png) |
 
 ---
 
@@ -94,7 +94,7 @@ A major hurdle occurred when I tried to rank the **Top 10 Skills by Pay**. The d
 
 $$Likelihood = \frac{Total\ Jobs\ with\ Skill\ paying\ >\ Median}{Total\ Jobs\ with\ Skill}$$
 
-![Top 10 Skills & Likelihood](assets/top-10Skills)
+![Top 10 Skills & Likelihood](assets/top-10Skills.png)
 
 **Result:** High-value skills like **Python** and **Oracle** are not just popular; they are statistically significant indicators of high-salary potential.
 
