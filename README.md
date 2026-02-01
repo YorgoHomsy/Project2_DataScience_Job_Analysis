@@ -11,8 +11,8 @@ Instead of using simple tables, I built a **relational data engine** using **Pow
 
 This project was developed while mastering advanced Excel modeling techniques. You can explore the step-by-step development and specific lessons learned in the following modules:
 
-* 📂 [**Power Pivot & DAX Modeling**](../8-PowerPivot-and-DAX) — *Core project foundation.*
-* 📄 [**Advanced DAX Analysis**](../8-PowerPivot-and-DAX/4-Dax-Advanced) — *Specific logic used for this research.*
+* 📂 [**Power Pivot & DAX Modeling**](https://github.com/YorgoHomsy/Excel-for-Data-Analytics/tree/main/8-PowerPivot-and-DAX) — *Core project foundation.*
+* 📄 [**Advanced DAX Analysis**](https://github.com/YorgoHomsy/Excel-for-Data-Analytics/tree/main/8-PowerPivot-and-DAX/4-Dax-Advanced) — *Specific logic used for this research.*
 
 ---
 ## ❓ The Core Questions
